@@ -10,7 +10,6 @@
 https://spring.io/projects/spring-cloud-openfeign
 
 
-
 ### Read more
 
 - https://www.alura.com.br/curso-online-microsservicos-implementando-java-spring
