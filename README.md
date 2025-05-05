@@ -2,13 +2,10 @@
 
 [![1.png](imgs/1.png)](https://github.com/luizaandradeti/microsservicos-java-spring-web-service/blob/main/imgs/1.png)
 
-
 [![2.png](imgs/2.png)](https://github.com/luizaandradeti/microsservicos-java-spring-web-service/blob/main/imgs/2.png)
-
 
 [![3.png](imgs/3.png)](https://github.com/luizaandradeti/microsservicos-java-spring-web-service/blob/main/imgs/3.png)
 https://spring.io/projects/spring-cloud-openfeign
-
 
 ### Read more
 
@@ -18,7 +15,6 @@ https://spring.io/projects/spring-cloud-openfeign
 - https://stackoverflow.com/questions/53117281/how-to-implement-a-download-file-using-feign-client/55487034#55487034
 - https://www.amazon.com/Microservices-Spring-Boot-Cloud-microservices-ebook/
 - https://learn.microsoft.com/pt-br/azure/developer/java/spring-framework/
-
 
 ##### 1.2 Spring Security Content:
 
