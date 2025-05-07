@@ -12,7 +12,6 @@ https://spring.io/projects/spring-cloud-openfeign
 - https://www.alura.com.br/curso-online-microsservicos-implementando-java-spring
 - https://cursos.alura.com.br/forum/topico-acesso-a-uma-api-utilizando-o-feign-152093
 - https://cursos.alura.com.br/forum/topico-qual-a-diferenca-entra-rest-template-e-o-feign-171687
-- https://stackoverflow.com/questions/53117281/how-to-implement-a-download-file-using-feign-client/55487034#55487034
 - https://www.amazon.com/Microservices-Spring-Boot-Cloud-microservices-ebook/
 - https://learn.microsoft.com/pt-br/azure/developer/java/spring-framework/
 
