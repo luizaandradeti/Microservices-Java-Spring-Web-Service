@@ -1,6 +1,7 @@
 ## 1.1 Microservices
 
-[![1.png](imgs/1.png)](https://github.com/luizaandradeti/microsservicos-java-spring-web-service/blob/main/imgs/1.png)
+
+[![1.png](imgs/1.png)](https://github.com/luizaandradeti/Microservices-Java-Spring-Web-Service/blob/main/imgs/1.png)
 
 [![2.png](imgs/2.png)](https://github.com/luizaandradeti/microsservicos-java-spring-web-service/blob/main/imgs/2.png)
 
